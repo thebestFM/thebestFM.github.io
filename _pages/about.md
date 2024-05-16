@@ -25,9 +25,12 @@ Please Check my [CV](https://thebestFM.github.io/files/CV.pdf) for more informat
   Advisor: [Yanxia Liu](https://www2.scut.edu.cn/sse/2018/0614/c16789a270677/page.htm)  
   Follow @ [Data Science and Intelligent Software Research Lab](https://www2.scut.edu.cn/sse/2018/1206/c20715a298882/page.htm)  
 
-* **South China University of Technology**  
+* **Smart Platform Android-End**  
   [Gitee Repository](https://gitee.com/fm_xym/building-project-management-system-Android-frontend)  
   Follow @ [Big Data Systems and Cloud Computing Lab](https://www2.scut.edu.cn/sse/2018/1206/c20715a298873/page.htm)  
+
+* **Stock Visualization and ROI Prediction using XGBoost**  
+  [GitHub Repository](https://github.com/thebestFM/StockLab)  
 
 # Honors
 * First Place, Futu Cup Finance Software Design Competition, 2023  
