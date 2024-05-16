@@ -26,7 +26,7 @@ Please Check my [CV](https://thebestFM.github.io/files/CV.pdf) for more informat
   Follow @ [Data Science and Intelligent Software Research Lab](https://www2.scut.edu.cn/sse/2018/1206/c20715a298882/page.htm)  
 
 * **South China University of Technology**  
-  [Gitee Repository](https://gitee.com/fm_xym/building-project-management-system-Android-frontend)
+  [Gitee Repository](https://gitee.com/fm_xym/building-project-management-system-Android-frontend)  
   Follow @ [Big Data Systems and Cloud Computing Lab](https://www2.scut.edu.cn/sse/2018/1206/c20715a298873/page.htm)  
 
 # Honors
