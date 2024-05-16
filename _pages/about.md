@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+<img src="/images/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 60px; height: 60px;" />
 A 3rd-year undergraduate student majoring in [**Software Engineering**](https://www2.scut.edu.cn/sse/),  
 [**South China University of Technology**](https://www.scut.edu.cn/). 
 
 My research interests include **Human-Computer Interaction** and **Spatio-temporal Data Mining**. 
-Please Check my [CV](https://thebestFM.github.io/files/CV.pdf) for more information!
+For further details, please refer to my [CV](https://thebestFM.github.io/files/CV.pdf).
 
 # Projects
 
