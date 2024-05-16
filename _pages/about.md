@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 60px; height: 60px;" />
+<img src="/images/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
 A 3rd-year undergraduate student majoring in [**Software Engineering**](https://www2.scut.edu.cn/sse/),  
 [**South China University of Technology**](https://www.scut.edu.cn/). 
 
