@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <img src="/images/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 60px; height: 60px;" />
-A 3rd-year undergraduate student majoring in [Software Engineering](https://www2.scut.edu.cn/sse/), [South China University of Technology](https://www.scut.edu.cn/). 
+A 3rd-year undergraduate student majoring in [**Software Engineering**](https://www2.scut.edu.cn/sse/),  
+[**South China University of Technology**](https://www.scut.edu.cn/). 
 
 My research interests include **Human-Computer Interaction** and **Spatio-temporal Data Mining**. 
 Please Check my [CV](https://thebestFM.github.io/files/CV.pdf) for more information!
@@ -17,14 +18,15 @@ Please Check my [CV](https://thebestFM.github.io/files/CV.pdf) for more informat
 # Projects
 
 * **Human-Computer Collaboration for Filling Missing Data in  Time Series**  
-  Codes:    [GitHub Repository](https://github.com/thebestFM/Human-Computer-Collaboration-for-Filling-Missing-Data-in-Time-Series)  
-  Advisor:  [Zikun Deng](https://zkdeng.org/)  
+  [GitHub Repository](https://github.com/thebestFM/Human-Computer-Collaboration-for-Filling-Missing-Data-in-Time-Series)  
+  Advisor: [Zikun Deng](https://zkdeng.org/)  
 
 * **Dysphagia Identifying and Alerting using Deep Learning in Vibratory Signals**  
+  Advisor: [Yanxia Liu](https://www2.scut.edu.cn/sse/2018/0614/c16789a270677/page.htm)  
   Follow @ [Data Science and Intelligent Software Research Lab](https://www2.scut.edu.cn/sse/2018/1206/c20715a298882/page.htm)  
-  Advisor: [Yanxia Liu](https://ieeexplore.ieee.org/author/37675753300)  
 
 * **South China University of Technology**  
+  [Gitee Repository](https://gitee.com/fm_xym/building-project-management-system-Android-frontend)
   Follow @ [Big Data Systems and Cloud Computing Lab](https://www2.scut.edu.cn/sse/2018/1206/c20715a298873/page.htm)  
 
 # Honors
