@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Yuming_Xu.jpg"
   name             : "Yuming Xu"
-  pronouns         : "he/his"  
+  # pronouns         : "he/his"  
   bio              : "A Cheerful CS Rookie"
   location         : "Guangzhou, China"
   employer         : "South China University of Technology"
