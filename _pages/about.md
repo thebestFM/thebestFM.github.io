@@ -22,7 +22,7 @@ My research interests include **Graph Neural Networks**, **Graph Foundation Mode
 
 * Zhuohan GE, Nicole HU, Darian LI, Yubo WANG, Shihao QI, <strong>Yuming XU</strong>, et al. "A Survey of Large Language Models in Mental Health Disorder Detection on Social Media." <i>ICDE 2025 Workshop</i>. [[paper]](https://arxiv.org/abs/2504.02800v2)
 
-* Haoyang LI, <strong>Yuming XU</strong>, Alexander ZHOU, et al. "Revisiting Graph Neural Networks for Graph-level Tasks: Taxonomy, Empirical Study, and Future Directions." [[paper]](https://arxiv.org/abs/2501.00773v2)
+* Haoyang LI, <strong>Yuming XU</strong>, et al. "Revisiting Graph Neural Networks for Graph-level Tasks: Taxonomy, Empirical Study, and Future Directions." [[paper]](https://arxiv.org/abs/2501.00773v2)
 
 * Mingtao ZHANG\*, <strong>Yuming XU</strong>\*, et al. "Can Graph Foundation Models Replace Graph Neural Networks? An Experimental Study with Theoretical Analysis." (\* Co-first author)
 
