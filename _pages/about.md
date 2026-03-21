@@ -20,7 +20,7 @@ My research interests include **Graph Neural Networks**, **Graph Foundation Mode
 
 * <strong>Yuming XU</strong>, et al. "Fast and Faithful: A Lightweight Spatio-Temporal GNN for Semi-Supervised Air Quality Forecasting with Inductive Capability." <i>IEEE Big Data 2025</i>. [[paper]](https://www.computer.org/csdl/video-library/video/2dOxDPCBqHm)
 
-* Zhuohan GE, Nicole HU, Darian LI, Yubo WANG, Shihao QI, <strong>Yuming XU</strong>, et al. "A Survey of Large Language Models in Mental Health Disorder Detection on Social Media." <i>ICDE 2025 Workshop</i>. [[paper]](https://arxiv.org/abs/2504.02800v2)
+* Zhuohan GE, Nicole HU, Darian LI, Yubo WANG, Shihao QI, <strong>Yuming XU</strong>, et al. "A Survey of Large Language Models in Mental Health Disorder Detection on Social Media." <i>ICDEW 2025</i>. [[paper]](https://arxiv.org/abs/2504.02800v2)
 
 * Haoyang LI, <strong>Yuming XU</strong>, et al. "Revisiting Graph Neural Networks for Graph-level Tasks: Taxonomy, Empirical Study, and Future Directions." [[paper]](https://arxiv.org/abs/2501.00773v2)
 
