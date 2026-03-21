@@ -16,17 +16,17 @@ My research interests include **Graph Neural Networks**, **Graph Foundation Mode
 
 ## Publications
 
-* Haoyang LI, <strong>Yuming XU</strong>, Yiming LI, Hanmo LIU, Darian LI, Chen Jason ZHANG, Lei CHEN, Qing LI. "When Speed Meets Accuracy: An Efficient and Effective Graph Model for Temporal Link Prediction." <i>VLDB 2025</i>. [[paper]](https://www.vldb.org/pvldb/vol18/p3396-li.pdf)
+* Haoyang LI, <strong>Yuming XU</strong>, et al. "When Speed Meets Accuracy: An Efficient and Effective Graph Model for Temporal Link Prediction." <i>VLDB 2025</i>. [[paper]](https://www.vldb.org/pvldb/vol18/p3396-li.pdf)
 
-* <strong>Yuming XU</strong>, Zhanchao XU, Yaowen LIU, Xuejia CHEN, Qi CHEN, Mingtao ZHANG, Zhuohan GE, Haoyang LI, Jason Chen ZHANG. "Fast and Faithful: A Lightweight Spatio-Temporal GNN for Semi-Supervised Air Quality Forecasting with Inductive Capability." <i>IEEE Big Data 2025</i>. [[paper]](https://www.computer.org/csdl/video-library/video/2dOxDPCBqHm)
+* <strong>Yuming XU</strong>, et al. "Fast and Faithful: A Lightweight Spatio-Temporal GNN for Semi-Supervised Air Quality Forecasting with Inductive Capability." <i>IEEE Big Data 2025</i>. [[paper]](https://www.computer.org/csdl/video-library/video/2dOxDPCBqHm)
 
-* Zhuohan GE, Nicole HU, Darian LI, Yubo WANG, Shihao QI, <strong>Yuming XU</strong>, Han SHI, Jason ZHANG. "A Survey of Large Language Models in Mental Health Disorder Detection on Social Media." <i>ICDE 2025 Workshop</i>. [[paper]](https://arxiv.org/abs/2504.02800v2)
+* Zhuohan GE, Nicole HU, Darian LI, Yubo WANG, Shihao QI, <strong>Yuming XU</strong>, et al. "A Survey of Large Language Models in Mental Health Disorder Detection on Social Media." <i>ICDE 2025 Workshop</i>. [[paper]](https://arxiv.org/abs/2504.02800v2)
 
-* Mingtao ZHANG*, <strong>Yuming XU</strong>*, Haoyang LI, et al. "Can Graph Foundation Models Replace Graph Neural Networks? An Experimental Study with Theoretical Analysis." (* Co-first author)
+* Mingtao ZHANG*, <strong>Yuming XU</strong>, et al. "Can Graph Foundation Models Replace Graph Neural Networks? An Experimental Study with Theoretical Analysis." (* Co-first author)
 
-* Luyu QIU, <strong>Yuming XU</strong>, Haoyang LI, et al. "Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees."
+* Luyu QIU, <strong>Yuming XU</strong>, et al. "Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees."
 
-* Haoyang LI, <strong>Yuming XU</strong>, Alexander ZHOU, et al. "Revisiting Graph Neural Networks for Graph-level Tasks: Taxonomy, Empirical Study, and Future Directions."
+* Haoyang LI, <strong>Yuming XU</strong>, et al. "Revisiting Graph Neural Networks for Graph-level Tasks: Taxonomy, Empirical Study, and Future Directions."
 
 ## Research Interests
 
