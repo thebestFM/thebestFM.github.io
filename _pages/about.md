@@ -1,39 +1,37 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "Yuming Xu's Homepage"
+excerpt: "Martin Yuming XU's Homepage"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<img src="/images/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 60px; height: 60px;" />
-A 3rd-year undergraduate student majoring in [**Software Engineering**](https://www2.scut.edu.cn/sse/),  
-[**South China University of Technology**](https://www.scut.edu.cn/). 
+I am an MPhil student in the Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/), supervised by [Jason Chen ZHANG](https://scholar.google.com/citations?user=8XvhKTQAAAAJ&hl=en), [Haoyang LI](https://scholar.google.com/citations?user=nKK5lMIAAAAJ&hl=en), and [Ken Man Lung YIU](https://scholar.google.com/citations?user=3RGlO-IAAAAJ&hl=en).
 
-My research interests include **Human-Computer Interaction** and **Spatio-temporal Data Mining**. 
-For further details, please refer to my [CV](https://thebestFM.github.io/files/CV.pdf).
+Prior to this, I completed my BSc in Software Engineering (GPA: 3.66/4.0) at [South China University of Technology](https://www.scut.edu.cn/).
 
-# Projects
+My research interests include **Graph Neural Networks**, **Graph Foundation Models**, **Agent Orchestration**, and **AI for Science**.
 
-* **Human-Computer Collaboration for Filling Missing Data in  Time Series**  
-  [GitHub Repository](https://github.com/thebestFM/Human-Computer-Collaboration-for-Filling-Missing-Data-in-Time-Series)  
-  Advisor: [Zikun Deng](https://zkdeng.org/)  
+## Publications
 
-* **Dysphagia Identifying and Alerting using Deep Learning in Vibratory Signals**  
-  Advisor: [Yanxia Liu](https://www2.scut.edu.cn/sse/2018/0614/c16789a270677/page.htm)  
-  Follow @ [Data Science and Intelligent Software Research Lab](https://www2.scut.edu.cn/sse/2018/1206/c20715a298882/page.htm)  
+* **Yuming XU**, Zhanchao XU, Yaowen LIU, Xuejia CHEN, Qi CHEN, Mingtao ZHANG, Zhuohan GE, Haoyang LI, Jason Chen ZHANG. "Fast and Faithful: A Lightweight Spatio-Temporal GNN for Semi-Supervised Air Quality Forecasting with Inductive Capability." *IEEE International Conference on Big Data (IEEE BigData 2025)*. [[paper]](https://www.computer.org/csdl/video-library/video/2dOxDPCBqHm)
 
-* **Smart Platform Android-End**  
-  [Gitee Repository](https://gitee.com/fm_xym/building-project-management-system-Android-frontend)  
-  Follow @ [Big Data Systems and Cloud Computing Lab](https://www2.scut.edu.cn/sse/2018/1206/c20715a298873/page.htm)  
+* Haoyang LI, **Yuming XU**, Yiming LI, Hanmo LIU, Darian LI, Chen Jason ZHANG, Lei CHEN, Qing LI. "When Speed Meets Accuracy: An Efficient and Effective Graph Model for Temporal Link Prediction." *Proceedings of the 51st International Conference on Very Large Data Bases (VLDB 2025)*. [[paper]](https://www.vldb.org/pvldb/vol18/p3396-li.pdf)
 
-* **Stock Visualization and ROI Prediction using XGBoost**  
-  [GitHub Repository](https://github.com/thebestFM/StockLab)  
+* Zhuohan GE, Nicole HU, Darian LI, Yubo WANG, Shihao QI, **Yuming XU**, Han SHI, Jason ZHANG. "A Survey of Large Language Models in Mental Health Disorder Detection on Social Media." *ICDE 2025 Workshop*. [[paper]](https://arxiv.org/abs/2504.02800v2)
 
-# Honors
-* First Place, Futu Cup Finance Software Design Competition, 2023  
-* Third prize, 'Challenge Cup' at school level, 2023  
-* Provincial Outstanding Volunteer, in Guangdong University Sports Meet, 2023  
-* Excellent Individual, in military training at school level, 2022  
+* Mingtao ZHANG*, **Yuming XU***, Haoyang LI, Xinyi ZHU, Yiming LI, Yubo WANG, Alexander ZHOU, Wei DONG, Chen Jason ZHANG, Lei CHEN, Qing LI. "Can Graph Foundation Models Replace Graph Neural Networks? An Experimental Study with Theoretical Analysis." (*Co-first author)
+
+* Luyu QIU, **Yuming XU**, Haoyang LI, Chen Jason ZHANG, Alexander ZHOU, Peng CHENG, Lei CHEN, Qing LI. "Towards A Generalizable and Expressive Graph Neural Network for Graph-Level Tasks with Theoretical Guarantees."
+
+* Haoyang LI, **Yuming XU**, Alexander ZHOU, Yongqi ZHANG. "Revisiting Graph Neural Networks for Graph-level Tasks: Taxonomy, Empirical Study, and Future Directions."
+
+## Research Interests
+
+Graph Neural Networks, Graph Foundation Models, Agent Orchestration, AI for Science
+
+## Professional Service
+
+**Reviewer:** *IEEE Transactions on Computational Social Systems*

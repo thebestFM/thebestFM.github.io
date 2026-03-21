@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Guangzhou, China"
-title                    : "Yuming Xu"
+locale                   : "Hong Kong"
+title                    : "Martin Yuming XU"
 title_separator          : "-"
-name                     : &name "Yuming Xu"
-description              : &description "personal description"
+name                     : &name "Martin Yuming XU"
+description              : &description "MPhil Student at The Hong Kong Polytechnic University"
 url                      : https://thebestFM.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thebestFM/thebestFM.github.io"
@@ -22,17 +22,17 @@ repository               : "thebestFM/thebestFM.github.io"
 author:
   # Biographic information
   avatar           : "Yuming_Xu.jpg"
-  name             : "Yuming Xu"
-  # pronouns         : "he/his"  
-  bio              : "A Cheerful CS Rookie"
-  location         : "Guangzhou, China"
-  employer         : "South China University of Technology"
+  name             : "Martin Yuming XU"
+  # pronouns         : "he/his"
+  bio              : "MPhil Student"
+  location         : "Hong Kong"
+  employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
-  email            : "yuming_xu2003@163.com" 
+  email            : "martin.xu@connect.polyu.hk"
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
@@ -44,8 +44,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "thebestFM"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
