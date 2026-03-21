@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an MPhil student in the <a href="https://www.polyu.edu.hk/comp/" style="color: black; text-decoration: underline;">Department of Computing</a> at <strong>The Hong Kong Polytechnic University</strong>, supervised by <a href="https://www.polyu.edu.hk/comp/people/academic-staff/prof-zhang-chen-jason/" style="color: black; text-decoration: underline;">Jason Chen ZHANG</a>, <a href="https://refrainlhy.github.io/" style="color: black; text-decoration: underline;">Haoyang LI</a>, and <a href="https://www.polyu.edu.hk/comp/people/academic-staff/prof-yiu-man-lung-ken/" style="color: black; text-decoration: underline;">Ken Man Lung YIU</a>.
+I am an MPhil student in the <a href="https://www.polyu.edu.hk/comp/" style="color: black; text-decoration: underline;">Department of Computing</a> at The Hong Kong Polytechnic University, supervised by <a href="https://www.polyu.edu.hk/comp/people/academic-staff/prof-zhang-chen-jason/" style="color: black; text-decoration: underline;">Jason Chen ZHANG</a>, <a href="https://refrainlhy.github.io/" style="color: black; text-decoration: underline;">Haoyang LI</a>, and <a href="https://www.polyu.edu.hk/comp/people/academic-staff/prof-yiu-man-lung-ken/" style="color: black; text-decoration: underline;">Ken Man Lung YIU</a>.
 
-Prior to this, I completed my BSc in Software Engineering at <a href="https://www.scut.edu.cn/" style="color: black; text-decoration: underline;"><strong>South China University of Technology</strong></a>.
+Prior to this, I completed my BSc in Software Engineering at <a href="https://www.scut.edu.cn/" style="color: black; text-decoration: underline;">South China University of Technology</a>.
 
 My research interests include **Graph Neural Networks**, **Graph Foundation Models**, **Agent Orchestration**, and **AI for Science**.
 
