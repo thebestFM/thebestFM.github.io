@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an MPhil student in the <a href="https://www.polyu.edu.hk/comp/" style="color: black; text-decoration: underline;">Department of Computing</a> at The Hong Kong Polytechnic University, supervised by <a href="https://www.polyu.edu.hk/comp/people/academic-staff/prof-zhang-chen-jason/" style="color: black; text-decoration: underline;">Jason Chen ZHANG</a>, <a href="https://refrainlhy.github.io/" style="color: black; text-decoration: underline;">Haoyang LI</a>, and <a href="https://www.polyu.edu.hk/comp/people/academic-staff/prof-yiu-man-lung-ken/" style="color: black; text-decoration: underline;">Ken Man Lung YIU</a>.
+I am an MPhil student in the <a href="https://www.polyu.edu.hk/comp/" style="color: black; text-decoration: underline;">Department of Computing</a> at The Hong Kong Polytechnic University, supervised by <a href="https://www.zhangchen.info/" style="color: black; text-decoration: underline;">Jason Chen ZHANG</a>, <a href="https://refrainlhy.github.io/" style="color: black; text-decoration: underline;">Haoyang LI</a>, and <a href="https://www.polyu.edu.hk/comp/people/academic-staff/prof-yiu-man-lung-ken/" style="color: black; text-decoration: underline;">Ken Man Lung YIU</a>.
 
 Prior to this, I completed my BSc in Software Engineering at <a href="https://www.scut.edu.cn/" style="color: black; text-decoration: underline;">South China University of Technology</a>.
 
-My research interests include **Graph Neural Networks**, **Graph Foundation Models**, **Agent Orchestration**, and **AI for Science**.
+My research interests include **RAG**, **Graph4Agents**, **Graph Foundation Models**, **GNN**, and **AI4Science**.
 
 ## Publications
 
@@ -24,15 +24,11 @@ My research interests include **Graph Neural Networks**, **Graph Foundation Mode
 
 * <strong>Yuming XU</strong>, et al. "Fast and Faithful: A Lightweight Spatio-Temporal GNN for Semi-Supervised Air Quality Forecasting with Inductive Capability." <i>IEEE Big Data 2025</i>. [[paper]](https://www.computer.org/csdl/video-library/video/2dOxDPCBqHm)
 
-* Zhuohan GE, Nicole HU, Darian LI, Yubo WANG, Shihao QI, <strong>Yuming XU</strong>, et al. "A Survey of Large Language Models in Mental Health Disorder Detection on Social Media." <i>ICDEW 2025</i>. [[paper]](https://arxiv.org/abs/2504.02800v2)
-
 * Haoyang LI, <strong>Yuming XU</strong>, et al. "Revisiting Graph Neural Networks for Graph-level Tasks: Taxonomy, Empirical Study, and Future Directions." [[paper]](https://arxiv.org/abs/2501.00773v2)
 
 * Mingtao ZHANG\*, <strong>Yuming XU</strong>\*, et al. "Can Graph Foundation Models Replace Graph Neural Networks? An Experimental Study with Theoretical Analysis." (\* Co-first author)
 
-## Research Interests
-
-Graph Neural Networks, Graph Foundation Models, Agent Orchestration, AI for Science
+* Zhuohan GE, Nicole HU, Darian LI, Yubo WANG, Shihao QI, <strong>Yuming XU</strong>, et al. "A Survey of Large Language Models in Mental Health Disorder Detection on Social Media." <i>ICDEW 2025</i>. [[paper]](https://arxiv.org/abs/2504.02800v2)
 
 ## Professional Service
 
