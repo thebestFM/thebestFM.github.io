@@ -11,7 +11,7 @@ locale                   : "Hong Kong"
 title                    : "Martin Yuming XU"
 title_separator          : "-"
 name                     : &name "Martin Yuming XU"
-description              : &description "MPhil Student at The Hong Kong Polytechnic University"
+description              : &description "MPhil Student in Computing at The Hong Kong Polytechnic University"
 url                      : https://thebestFM.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thebestFM/thebestFM.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "Yuming_Xu.jpg"
   name             : "Martin Yuming XU"
   # pronouns         : "he/his"
-  bio              : "MPhil Student"
+  bio              : "MPhil Student in Computing"
   location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
