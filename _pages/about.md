@@ -20,4 +20,4 @@ My research interests include **Graph Neural Networks**, **Graph Foundation Mode
 
 ## Professional Service
 
-**Reviewer:** <i>IEEE Transactions on Computational Social Systems</i>; <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>
+**Reviewer:** <i>The Web Conference (WWW)</i>; <i>IEEE Transactions on Computational Social Systems</i>; <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>
