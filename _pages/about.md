@@ -12,7 +12,7 @@ I am an MPhil student in the <a href="https://www.polyu.edu.hk/comp/" style="col
 
 Prior to this, I completed my BSc in Software Engineering, with a minor in Business Administration, at <a href="https://www.scut.edu.cn/" style="color: black; text-decoration: underline;">South China University of Technology</a>.
 
-My research interests include **Graph Neural Networks**, **Graph Foundation Models**, **RAG Security**, **Agent Orchestration**, and **AI for Science**.
+My research interests include **Data Agent**, **RAG/LLM Security**, **Graph for LLM**, and **AI for Science**.
 
 ## Publications
 

@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * MPhil, Department of Computing, The Hong Kong Polytechnic University, 09/2025 - Present
-  * Supervisors: Jason Chen Zhang, Haoyang LI, Ken Man Lung YIU
+  * Supervisors: Jason Chen ZHANG, Haoyang LI, Ken Man Lung YIU
 * BSc, School of Software, South China University of Technology, 09/2021 - 06/2025
   * Major: Software Engineering; Minor: Business Administration; GPA: 3.66/4.0
 
 Research Interests
 ======
-Graph Neural Networks, Graph Foundation Models, RAG Security, Agent Orchestration, AI for Science
+Data Agent, RAG/LLM Security, Graph for LLM, AI for Science
 
 Publications
 ======
